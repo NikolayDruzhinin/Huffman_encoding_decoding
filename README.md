@@ -10,7 +10,7 @@ exception.h - exception handling library
 
                                                                 Description of functions:
 
-input_output.h:
+                                                                        input_output.h:
 
 void readFile(const char* filename)      -- read file (for encoding and decoding)
 
