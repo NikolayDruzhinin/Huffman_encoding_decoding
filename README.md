@@ -8,7 +8,7 @@ input_output.h - I/O library
 encode_decode.h - encoding- decoding library
 exception.h - exception handling library
 
-Description of functions:
+                                                                Description of functions:
 
 input_output.h:
 
@@ -31,7 +31,7 @@ void writeDecod(const char* infile, const char* outfile) -- write decoded data i
 void writeTempDecode(const char* infile, const char* outfile, long int offset) -- write bitcode in temporary file (for decoding)
 
 
-encode_decode.h:
+                                                                        encode_decode.h:
 
 void makeBitCode(structNodePtr root, std::string str) -- create bitcode and save it in dictionary (for encoding and decoding)
 
