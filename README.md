@@ -1,6 +1,6 @@
 Course work on the discipline: "Object-oriented programming"
 
-"Data compression using Huffman codes"
+"Data compression using Huffman codes"\
 Druzhinin N.V. group B3530904/00030
 10.01.2022 v.1
 
