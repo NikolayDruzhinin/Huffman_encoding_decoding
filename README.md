@@ -1,5 +1,5 @@
 Course work on the discipline: "Object-oriented programming"
-"Implementation of the Huffman algorithm for encoding and decoding files of any type"
+"Data compression using Huffman codes"
 Druzhinin N.V. group B3530904/00030
 10.01.2022 v.1
 
