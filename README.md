@@ -4,9 +4,13 @@ Druzhinin N.V. group B3530904/00030
 10.01.2022 v.1
 
 modules used:
+
 input_output.h - I/O library
+
 encode_decode.h - encoding- decoding library
+
 exception.h - exception handling library
+
 
                                                                 Description of functions:
 
